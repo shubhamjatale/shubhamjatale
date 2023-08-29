@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shubhamjatale
 - 👀 I’m interested in ...DEVELOPMENT
-- 🌱 I’m currently learning ...ASP.NET
-- 💞️ I’m looking to collaborate on ...GIRL 
+- 🌱 I’m a Full Stack >net Developer
 - 📫 How to reach me ...9074570560
 
 <!---
